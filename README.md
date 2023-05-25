@@ -1,7 +1,7 @@
 # upconv
 
-Upconv.c has the code for upconvolution computation (Needs to be simulated)
+[upconv.c]/(upconv/upconv.c) has the code for upconvolution computation (Needs to be simulated)
 
-Conv2d.c has the code for pure convolution only (independent file), no need for simulation.
+[conv2d.c]/(upconv/conv2d.c) has the code for pure convolution only (independent file), no need for simulation.
 
-Remaining files are either data files or c files used for porting code with FILE IO.
+Remaining files are either data files or misc. C files. (Can ignore)
