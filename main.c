@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// File IO 
+
 int main(int argc, char *argv[]){
     char *inFile = argv[1];
     char *outFile = argv[2];
